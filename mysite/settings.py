@@ -25,7 +25,7 @@ SECRET_KEY = '%jj*%_fx$qr@!#-_d=@k!^7-v3!r9yv)cu1e&l!$x06_b-%^0a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'renatacamp0s.pythonanywhere.com']
+ALLOWED_HOSTS = ['renatacamp0s.pythonanywhere.com']
 
 
 # Application definition
